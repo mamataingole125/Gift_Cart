@@ -30,6 +30,8 @@ This is working project which receieves otp and order confirmation to the regist
 ## Screenshots
 
 ![App Screenshot](screen.png)
+![image](https://user-images.githubusercontent.com/101566591/185340498-2765aca5-a40a-41f0-b226-a5c323b949bc.png)
+
 
 
 ## Blog
