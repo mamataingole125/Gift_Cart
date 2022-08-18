@@ -47,5 +47,5 @@ This is working project which receieves otp and order confirmation to the regist
 
 
 ## Blog
-https://medium.com/p/20bcfee87530/edit
+https://medium.com/@mamataingole125/my-first-project-gift-cart-clone-20bcfee87530
 
